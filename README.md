@@ -6,18 +6,14 @@ This is a small tutorial project for learning **AWS Glue**.
 
 Run the following commands:
 
+
+### 1. Clone the repository
+
 ```bash
-# 1. Clone the repository
 git clone https://github.com/AymanAhmediot/TestGlue
-
-# 2. Go into the project folder
-cd TestGlue
-
-# 3. Remove placeholder files so the folders are empty
-rm data/*/empty.txt
 ```
 
-## the structur in s3 should be like that 
+## The structur in s3 should be like that 
 
 
 ```
